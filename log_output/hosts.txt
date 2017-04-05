@@ -1,0 +1,10 @@
+piweba3y.prodigy.com,22309
+piweba4y.prodigy.com,14903
+piweba1y.prodigy.com,12876
+siltb10.orl.mmc.com,10578
+alyssa.prodigy.com,10184
+edams.ksc.nasa.gov,9095
+piweba2y.prodigy.com,7961
+163.206.89.4,6520
+www-d3.proxy.aol.com,6299
+vagrant.vf.mmc.com,6096

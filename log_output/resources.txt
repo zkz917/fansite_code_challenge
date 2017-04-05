@@ -1,0 +1,10 @@
+/shuttle/missions/sts-71/movies/sts-71-launch.mpg
+/
+/shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpg
+/shuttle/missions/sts-53/movies/sts-53-launch.mpg
+/shuttle/countdown/count70.gif
+/shuttle/technology/sts-newsref/stsref-toc.html
+/shuttle/countdown/video/livevideo2.gif
+/shuttle/countdown/count.gif
+/shuttle/missions/sts-71/movies/sts-71-hatch-hand-group.mpg
+/shuttle/countdown/video/livevideo.gif
